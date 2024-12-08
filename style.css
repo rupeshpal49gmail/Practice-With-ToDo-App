@@ -110,7 +110,6 @@ ul li.checked {
   text-decoration: line-through;
 }
 ul li.checked::before {
-  /* background-image: url("./images/check.png"); */
   position: absolute;
   background-color: #ff5945;
   border-radius: 50%;
